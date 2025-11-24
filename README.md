@@ -46,7 +46,3 @@ The dashboard is split into two main sections:
   - Data Modeling  
   - DAX Measures  
   - Interactive Visualizations  
-- **Excel** (initial cleaning)
-
----
-
