@@ -50,5 +50,3 @@ The dashboard is split into two main sections:
 
 ---
 
-## 📁 Folder Structure
-
